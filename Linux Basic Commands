@@ -1,0 +1,32 @@
+Basic Linux Command :-
+
+Note :- dont use bracket in real terminal its just for proper showing
+
+ls - Shows Directory
+pwd - print working directory
+/ - will shows all folder inside a directory
+cd - change directory
+mkdir (name of folder) - will create a folder
+touch (1.txt) - will create a blank text file
+mv (file name) (folder name where to copy)/ - will move file there
+cp (file name) (folder name where to copy)/ -  will copy file to selected folder
+sudo.mkdir - root acces means full access
+sudo.su.mkdir - super user command
+ls -R - will give full details about directories and sub directories
+ls .(fle name) - will create a hidden file
+la -a - will show hidden file 
+clear - will clear a running terminal
+history - will show the command history
+ls -lart - will list all the file including file in an order
+echo (name) - will print the same name 
+printf "(type any)\n" - will print the written thing
+sudo apt install (software name) - will install the software 
+sudo apt get update - will list the latest update 
+sudo apt install update - will install the latest update
+ls -l - will show the permissions details about read and write
+
+use chmod calculator online for access control for user,group and other just select the permission there and put the accuired number as [chmod (accuired number) (file name)]will change the permission of that file
+
+top - will show the most resource using appor file
+ps - shows all process
+kill (PID) - will kill that app or file
